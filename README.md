@@ -1,1 +1,1 @@
-# ecriptador-latam
+# encriptador-latam
